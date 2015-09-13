@@ -33,6 +33,6 @@ An example of how the class is used is given in the `example.tex` file.
 
 ## Defined colours
 
-The [UCL colour pallete](http://www.ucl.ac.uk/visual-identity/colour/updatedcolourswatch) has been defined as LaTeX colours for use in the banner and elsewhere.
+The [UCL colour palette](http://www.ucl.ac.uk/visual-identity/colour/updatedcolourswatch) has been defined as LaTeX colours for use in the banner and elsewhere.
 
 ![Defined colours](colours.png)
