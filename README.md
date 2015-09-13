@@ -1,14 +1,16 @@
 # UCL poster class for LaTeX
 
-by Rob Stanley
+**by Rob Stanley** robert.stanley.10@ucl.ac.uk
 
-A poster class for LaTeX that attempts to follow the [UCL Corporate Identity](http://www.ucl.ac.uk/corporate-identity).
+A poster class for LaTeX that follows the [UCL Corporate Identity](http://www.ucl.ac.uk/corporate-identity).
 
-Currently only compilation with XeLaTeX is supported.
+**This package is unofficial and is not supported by UCL.**
+
+Only compilation with XeLaTeX is currently supported.
 
 ## Installation and usage
 
-Copy the `uclposter.sty` file to the directory containing the poster LaTeX file.
+Copy the `uclposter.cls` file to the directory containing the poster LaTeX file.
 No additional files are needed (the banner/logo is included entirely as vector drawing code).
 
 An example of how the class is used is given in the `example.tex` file.
@@ -34,8 +36,3 @@ An example of how the class is used is given in the `example.tex` file.
 The [UCL colour pallete](http://www.ucl.ac.uk/visual-identity/colour/updatedcolourswatch) has been defined as LaTeX colours for use in the banner and elsewhere.
 
 ![Defined colours](colours.png)
-
-## Notice
-
-This package is unofficial and is not supported by UCL.
-If there are any issues contact robert.stanley.10@ucl.ac.uk .
