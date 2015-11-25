@@ -5,7 +5,7 @@
 % Information
 %-------------------------------------------------------------------------------
 % By Rob Stanley, robert.stanley.10@ucl.ac.uk
-% Latest version at: http://github.com/robjstan/uclposter
+% Latest version at: http://github.com/robjstan/latex-uclposter
 
 % A poster class for \LaTeX that attempts to follow the UCL Corporate Identity.
 % This package is unofficial and is not supported by UCL.
